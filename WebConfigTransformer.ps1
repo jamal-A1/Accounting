@@ -1,7 +1,7 @@
 ﻿	Param(
         
-        [String] $solution_dir ="c:\source\Accounting" , 
-        [String] $project_dir ="c:\source\Accounting\Accounting",
+        [String] $solution_dir ="c:\Source\Accounting" , 
+        [String] $project_dir ="c:\Source\Accounting\Accounting",
         [String] $output_path = "c:\buildOutput"
         )
        
